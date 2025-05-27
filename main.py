@@ -89,6 +89,8 @@ plot.show()
 # MSE score: 0.08850124247520247
 # R^2 score: 0.8098212289121004
 
+#After optimization (feature importance, hyperparameter tuning, stacking)
+
 # assessment scores -task2
 # MSE score: 0.0715407788331126
 # R^2 score: 0.8462672724062065
