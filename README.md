@@ -10,5 +10,5 @@ The model is tested using R^2 and MSE test metrics and displays an accuracy of >
 
 
 -----------------
-Skills: Machine Learning, Data Analysis, Data Processing, Machine Learning Optimization, Pandas, Skitlearn, Matplotlib
+Skills: Machine Learning, Data Analysis, Data Processing, Machine Learning Optimization, Pandas, Sklearn, Matplotlib
 -----------------
